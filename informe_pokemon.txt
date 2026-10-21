@@ -1,0 +1,73 @@
+=========================
+ INFORME DE POKÉMON
+=========================
+Total de Pokémon: 50
+Nivel medio: 19.02
+PS medios: 60.04
+Pokémon con mayor nivel:
+Charizard (Nivel 36)
+Pokémon con más PS:
+Wigglytuff (PS 140)
+-------------------------
+POKÉMON POR TIPO
+-------------------------
+AGUA: 3
+Squirtle
+Wartortle
+Blastoise
+BICHO: 10
+Caterpie
+Metapod
+Butterfree
+Weedle
+Kakuna
+Beedrill
+Paras
+Parasect
+Venonat
+Venomoth
+ELECTRICO: 2
+Pikachu
+Raichu
+FUEGO: 5
+Charmander
+Charmeleon
+Charizard
+Vulpix
+Ninetales
+HADA: 4
+Clefairy
+Clefable
+Jigglypuff
+Wigglytuff
+NORMAL: 2
+Rattata
+Raticate
+PLANTA: 6
+Bulbasaur
+Ivysaur
+Venusaur
+Oddish
+Gloom
+Vileplume
+TIERRA: 3
+Sandshrew
+Sandslash
+Diglett
+VENENO: 10
+Ekans
+Arbok
+NidoranF
+Nidorina
+Nidoqueen
+NidoranM
+Nidorino
+Nidoking
+Zubat
+Golbat
+VOLADOR: 5
+Pidgey
+Pidgeotto
+Pidgeot
+Spearow
+Fearow
